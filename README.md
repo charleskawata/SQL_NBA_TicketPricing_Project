@@ -21,4 +21,11 @@ I was inspired to take on this project because of my love for basketball and a j
 I was inspired to take a look at the problem of ticket pricing while I was searching for data to analyze and instead of just looking at ticket pricing for the LA Clippers I decied to look at all of the teams. 
 
 # Data
-I got half of my data from the TicketMaster API which I pulled in my `Data`
+I got half of my data from the TicketMaster API which I pulled in my `Data_Collection` jupyter notebook and put into the `games` table in my database. The rest of the data came fromdataworld datasets or were manually inputted from these sources 
+- https://www.sportico.com/valuations/teams/2021/nba-valuations-data-viz-1234620502/ 
+- https://basketball.realgm.com/nba/playoffs/history/1981
+- https://finance.yahoo.com/news/average-ticket-prices-nba-team-100000563.html
+- https://data.world/gmoney/nba-team-annual-attendance
+
+# Notebooks
+The two notebooks are linked above called 
