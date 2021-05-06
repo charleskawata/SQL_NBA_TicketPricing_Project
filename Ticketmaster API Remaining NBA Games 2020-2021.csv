@@ -1,0 +1,163 @@
+event_id,matchup,home_team,away_team,venue,address,state,date,start_Time,min_Price,max_Price
+0,Houston Rockets vs. Golden State Warriors,Houston Rockets,Golden State Warriors,Toyota Center - TX,1510 Polk St,TX,2021-05-01,18:30:00,0,0
+1,Houston Rockets vs. LA Clippers,Houston Rockets,LA Clippers,Toyota Center - TX,1510 Polk St,TX,2021-04-23,19:00:00,0,0
+2,Houston Rockets vs. Utah Jazz,Houston Rockets,Utah Jazz,Toyota Center - TX,1510 Polk St,TX,2021-04-21,19:00:00,0,0
+3,Los Angeles Lakers vs. Utah Jazz,Los Angeles Lakers,Utah Jazz,STAPLES Center,1111 S. Figueroa St,CA,2021-04-19,19:00:00,45,654
+4,Orlando Magic vs. Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,Amway Center,400 W Church St.,FL,2021-04-26,19:00:00,85,2496.5
+5,Miami Heat vs. Houston Rockets,Miami Heat,Houston Rockets,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-04-19,20:00:00,15,285
+6,Los Angeles Lakers vs. Sacramento Kings,Los Angeles Lakers,Sacramento Kings,STAPLES Center,1111 S. Figueroa St,CA,2021-04-30,19:30:00,45,654
+7,Houston Rockets vs. Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,Toyota Center - TX,1510 Polk St,TX,2021-04-29,19:00:00,0,0
+8,Toronto Raptors vs. Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,Amalie Arena,401 Channelside Dr,FL,2021-05-08,19:30:00,16.25,106.25
+9,Houston Rockets vs. LA Clippers,Houston Rockets,LA Clippers,Toyota Center - TX,1510 Polk St,TX,2021-05-14,20:00:00,0,0
+10,Toronto Raptors vs. Indiana Pacers,Toronto Raptors,Indiana Pacers,Amalie Arena,401 Channelside Dr,FL,2021-05-16, ,16.25,106.25
+11,Milwaukee Bucks vs. Washington Wizards,Milwaukee Bucks,Washington Wizards,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-05-05,19:00:00,40,600
+12,Houston Rockets vs. New York Knicks,Houston Rockets,New York Knicks,Toyota Center - TX,1510 Polk St,TX,2021-05-02,19:00:00,0,0
+13,Los Angeles Lakers vs. Toronto Raptors,Los Angeles Lakers,Toronto Raptors,STAPLES Center,1111 S. Figueroa St,CA,2021-05-02,19:00:00,45,654
+14,Houston Rockets vs. Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,Toyota Center - TX,1510 Polk St,TX,2021-04-27,19:00:00,0,0
+15,Los Angeles Lakers vs. Phoenix Suns,Los Angeles Lakers,Phoenix Suns,STAPLES Center,1111 S. Figueroa St,CA,2021-05-09,19:00:00,45,654
+16,Orlando Magic vs. Boston Celtics,Orlando Magic,Boston Celtics,Amway Center,400 W Church St.,FL,2021-05-05,19:00:00,26,1996.5
+17,Houston Rockets vs. Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,Toyota Center - TX,1510 Polk St,TX,2021-05-05,19:00:00,0,0
+18,Indiana Pacers vs. Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-05-15, ,50,707
+19,Toronto Raptors vs. Washington Wizards,Toronto Raptors,Washington Wizards,Amalie Arena,401 Channelside Dr,FL,2021-05-06,19:30:00,16.25,106.25
+20,Atlanta Hawks vs. Washington Wizards,Atlanta Hawks,Washington Wizards,State Farm Arena,One State Farm Drive,GA,2021-05-12,19:30:00,19,999
+21,Atlanta Hawks vs. Washington Wizards,Atlanta Hawks,Washington Wizards,State Farm Arena,One State Farm Drive,GA,2021-05-10,19:30:00,19,999
+22,Toronto Raptors vs. Brooklyn Nets,Toronto Raptors,Brooklyn Nets,Amalie Arena,401 Channelside Dr,FL,2021-04-21,19:00:00,56.25,316.25
+23,Dallas Mavericks vs. Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,2500 Victory Avenue,TX,2021-04-22,20:30:00,50,3200
+24,Washington Wizards vs. Indiana Pacers,Washington Wizards,Indiana Pacers,Capital One Arena,601 F Street NW,DC,2021-05-03,19:00:00,16,500
+25,Dallas Mavericks vs. Detroit Pistons,Dallas Mavericks,Detroit Pistons,American Airlines Center,2500 Victory Avenue,TX,2021-04-21,19:30:00,18,2500
+26,Dallas Mavericks vs. Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,2500 Victory Avenue,TX,2021-04-24,19:30:00,50,3200
+27,Indiana Pacers vs. Washington Wizards,Indiana Pacers,Washington Wizards,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-05-08,19:00:00,15,291
+28,Toronto Raptors vs. Brooklyn Nets,Toronto Raptors,Brooklyn Nets,Amalie Arena,401 Channelside Dr,FL,2021-04-27,19:30:00,56.25,316.25
+29,Milwaukee Bucks vs. Houston Rockets,Milwaukee Bucks,Houston Rockets,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-05-07,19:00:00,46,600
+30,Miami Heat vs. Dallas Mavericks,Miami Heat,Dallas Mavericks,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-05-04,20:00:00,20,320
+31,Detroit Pistons vs. Dallas Mavericks,Detroit Pistons,Dallas Mavericks,Little Caesars Arena,2645 Woodward,MI,2021-04-29,19:00:00,49,2888
+32,Washington Wizards vs. Golden State Warriors,Washington Wizards,Golden State Warriors,Capital One Arena,601 F Street NW,DC,2021-04-21,19:00:00,66,546
+33,Washington Wizards vs. San Antonio Spurs,Washington Wizards,San Antonio Spurs,Capital One Arena,601 F Street NW,DC,2021-04-26,19:00:00,16,500
+34,Washington Wizards vs. Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,Capital One Arena,601 F Street NW,DC,2021-04-28,19:00:00,108,863
+35,Washington Wizards vs. Charlotte Hornets,Washington Wizards,Charlotte Hornets,Capital One Arena,601 F Street NW,DC,2021-05-16, ,17,500
+36,Detroit Pistons vs. Atlanta Hawks,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,2645 Woodward,MI,2021-04-26,19:00:00,25,1662
+37,Detroit Pistons vs. Miami Heat,Detroit Pistons,Miami Heat,Little Caesars Arena,2645 Woodward,MI,2021-05-16,19:00:00,34,2085
+38,Dallas Mavericks vs. Toronto Raptors,Dallas Mavericks,Toronto Raptors,American Airlines Center,2500 Victory Avenue,TX,2021-05-14,20:00:00,22,2600
+39,Detroit Pistons vs. Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,Little Caesars Arena,2645 Woodward,MI,2021-05-06,20:00:00,25,1662
+40,Detroit Pistons vs. Orlando Magic,Detroit Pistons,Orlando Magic,Little Caesars Arena,2645 Woodward,MI,2021-05-03,19:00:00,25,1662
+41,Detroit Pistons vs. Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,Little Caesars Arena,2645 Woodward,MI,2021-05-11,19:00:00,25,1662
+42,Sacramento Kings vs. Dallas Mavericks,Sacramento Kings,Dallas Mavericks,Golden 1 Center,500 David J Stern Walk,CA,2021-04-26,19:00:00,32,430
+43,Los Angeles Lakers vs. Houston Rockets,Los Angeles Lakers,Houston Rockets,STAPLES Center,1111 S. Figueroa St,CA,2021-05-12,19:30:00,45,654
+44,Dallas Mavericks vs. Sacramento Kings,Dallas Mavericks,Sacramento Kings,American Airlines Center,2500 Victory Avenue,TX,2021-05-02,19:00:00,18,2500
+45,Miami Heat vs. Chicago Bulls,Miami Heat,Chicago Bulls,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-04-24,20:00:00,20,320
+46,Detroit Pistons vs. Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,2645 Woodward,MI,2021-04-19,19:00:00,25,1662
+47,Boston Celtics vs. Phoenix Suns,Boston Celtics,Phoenix Suns,TD Garden,100 Legends Way,MA,2021-04-22,19:00:00,99.5,1099.5
+48,Atlanta Hawks vs. Houston Rockets,Atlanta Hawks,Houston Rockets,State Farm Arena,One State Farm Drive,GA,2021-05-16, ,25,999
+49,Boston Celtics vs. Chicago Bulls,Boston Celtics,Chicago Bulls,TD Garden,100 Legends Way,MA,2021-04-19,19:30:00,38.5,739.5
+50,Detroit Pistons vs. Chicago Bulls,Detroit Pistons,Chicago Bulls,Little Caesars Arena,2645 Woodward,MI,2021-05-09,20:00:00,25,1662
+51,Charlotte Hornets vs. Boston Celtics,Charlotte Hornets,Boston Celtics,Spectrum Center ,333 East Trade Street,NC,2021-04-25,13:00:00,2,349
+52,Detroit Pistons vs. Charlotte Hornets,Detroit Pistons,Charlotte Hornets,Little Caesars Arena,2645 Woodward,MI,2021-05-04,19:00:00,25,1662
+53,Dallas Mavericks vs. New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,American Airlines Center,2500 Victory Avenue,TX,2021-05-12,20:00:00,22,2600
+54,Dallas Mavericks vs. Washington Wizards,Dallas Mavericks,Washington Wizards,American Airlines Center,2500 Victory Avenue,TX,2021-05-01,20:00:00,22,2600
+55,Memphis Grizzlies vs. Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,FedExForum,191 Beale Street,TN,2021-05-11,19:00:00,23,252
+56,Dallas Mavericks vs. Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,American Airlines Center,2500 Victory Avenue,TX,2021-05-07,19:30:00,22,2600
+57,Miami Heat vs. Chicago Bulls,Miami Heat,Chicago Bulls,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-04-26,20:00:00,15,285
+58,Toronto Raptors vs. Los Angeles Clippers,Toronto Raptors,LA Clippers,Amalie Arena,401 Channelside Dr,FL,2021-05-11,19:30:00,41.25,256.25
+59,Boston Celtics vs. Miami Heat,Boston Celtics,Miami Heat,TD Garden,100 Legends Way,MA,2021-05-11,19:00:00,50.5,1004.5
+60,Boston Celtics vs. Miami Heat,Boston Celtics,Miami Heat,TD Garden,100 Legends Way,MA,2021-05-09,13:00:00,79.5,1094.5
+61,Toronto Raptors vs. Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,Amalie Arena,401 Channelside Dr,FL,2021-04-26,19:30:00,11.25,91.25
+62,Atlanta Hawks vs. Chicago Bulls,Atlanta Hawks,Chicago Bulls,State Farm Arena,One State Farm Drive,GA,2021-05-01,20:00:00,35,999
+63,Indiana Pacers vs. Detroit Pistons,Indiana Pacers,Detroit Pistons,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-04-24,19:00:00,15,291
+64,Golden State Warriors vs. Dallas Mavericks,Golden State Warriors,Dallas Mavericks,Chase Center,300 16th Street,CA,2021-04-27,18:30:00,80,3500
+65,Los Angeles Lakers vs. New York Knicks,Los Angeles Lakers,New York Knicks,STAPLES Center,1111 S. Figueroa St,CA,2021-05-11,19:30:00,45,654
+66,Boston Celtics vs. Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,TD Garden,100 Legends Way,MA,2021-04-27,19:00:00,38.5,1004.5
+67,Boston Celtics vs. Charlotte Hornets,Boston Celtics,Charlotte Hornets,TD Garden,100 Legends Way,MA,2021-04-28,19:30:00,43.5,1004.5
+68,Boston Celtics vs. San Antonio Spurs,Boston Celtics,San Antonio Spurs,TD Garden,100 Legends Way,MA,2021-04-30,19:30:00,65.5,1004.5
+69,Charlotte Hornets vs. Detroit Pistons,Charlotte Hornets,Detroit Pistons,Spectrum Center ,333 East Trade Street,NC,2021-05-01,19:00:00,2,209
+70,Boston Celtics vs. Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,TD Garden,100 Legends Way,MA,2021-05-02,19:30:00,79.5,1074.5
+71,Memphis Grizzlies vs. New York Knicks,Memphis Grizzlies,New York Knicks,FedExForum,191 Beale Street,TN,2021-05-03,20:00:00,12,154
+72,Charlotte Hornets vs. Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,Spectrum Center ,333 East Trade Street,NC,2021-04-23,20:00:00,2,199
+73,Dallas Mavericks vs. Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,American Airlines Center,2500 Victory Avenue,TX,2021-05-06,18:30:00,35,2900
+74,Brooklyn Nets vs. Boston Celtics,Brooklyn Nets,Boston Celtics,Barclays Center,620 Atlantic Ave,NY,2021-04-23,19:30:00,129,8000
+75,Washington Wizards vs. Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,Capital One Arena,601 F Street NW,DC,2021-05-14,19:00:00,18,500
+76,Washington Wizards vs. Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,Capital One Arena,601 F Street NW,DC,2021-04-25,19:00:00,17,500
+77,Phoenix Suns vs. LA Clippers,Phoenix Suns,LA Clippers,Phoenix Suns Arena (formerly Talking Stick Resort Arena),201 East Jefferson Street,AZ,2021-04-28,19:00:00,55,303
+78,Phoenix Suns vs. New York Knicks,Phoenix Suns,New York Knicks,Phoenix Suns Arena (formerly Talking Stick Resort Arena),201 East Jefferson Street,AZ,2021-05-07,19:00:00,55,303
+79,Charlotte Hornets vs. LA Clippers,Charlotte Hornets,LA Clippers,Spectrum Center ,333 East Trade Street,NC,2021-05-13,19:00:00,2,289
+80,Charlotte Hornets vs. Chicago Bulls,Charlotte Hornets,Chicago Bulls,Spectrum Center ,333 East Trade Street,NC,2021-05-06,19:00:00,2,199
+81,San Antonio Spurs vs. Detroit Pistons,San Antonio Spurs,Detroit Pistons,AT&T Center,1 AT&T Center,TX,2021-04-22,19:30:00,12,1000
+82,Brooklyn Nets vs. Chicago Bulls,Brooklyn Nets,Chicago Bulls,Barclays Center,620 Atlantic Ave,NY,2021-05-15, ,89,2860
+83,New York Knicks vs. Atlanta Hawks,New York Knicks,Atlanta Hawks,Madison Square Garden,7th Ave & 32nd Street,NY,2021-04-21,20:00:00,50,3500
+84,Brooklyn Nets vs. Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,620 Atlantic Ave,NY,2021-05-16, ,69,2860
+85,New York Knicks vs. Boston Celtics,New York Knicks,Boston Celtics,Madison Square Garden,7th Ave & 32nd Street,NY,2021-05-16, ,95,4500
+86,New York Knicks vs. Toronto Raptors,New York Knicks,Toronto Raptors,Madison Square Garden,7th Ave & 32nd Street,NY,2021-04-24,13:00:00,90,3500
+87,New York Knicks vs. Phoenix Suns,New York Knicks,Phoenix Suns,Madison Square Garden,7th Ave & 32nd Street,NY,2021-04-26,19:30:00,90,3500
+88,New York Knicks vs. Charlotte Hornets,New York Knicks,Charlotte Hornets,Madison Square Garden,7th Ave & 32nd Street,NY,2021-04-20,19:30:00,50,3000
+89,New York Knicks vs. Chicago Bulls,New York Knicks,Chicago Bulls,Madison Square Garden,7th Ave & 32nd Street,NY,2021-04-28,19:30:00,70,3500
+90,New York Knicks vs. Charlotte Hornets,New York Knicks,Charlotte Hornets,Madison Square Garden,7th Ave & 32nd Street,NY,2021-05-15, ,80,3000
+91,New York Knicks vs. San Antonio Spurs,New York Knicks,San Antonio Spurs,Madison Square Garden,7th Ave & 32nd Street,NY,2021-05-13,19:30:00,70,3000
+92,Denver Nuggets vs. Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,Ball Arena,1000 Chopper Circle,CO,2021-04-19,19:00:00,32,999
+93,Denver Nuggets vs. Houston Rockets,Denver Nuggets,Houston Rockets,Ball Arena,1000 Chopper Circle,CO,2021-04-24,20:00:00,46,999
+94,Detroit Pistons vs. Denver Nuggets,Detroit Pistons,Denver Nuggets,Little Caesars Arena,2645 Woodward,MI,2021-05-14,20:00:00,34,2085
+95,Denver Nuggets vs. Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,Ball Arena,1000 Chopper Circle,CO,2021-04-26,19:00:00,32,999
+96,Denver Nuggets vs. Toronto Raptors,Denver Nuggets,Toronto Raptors,Ball Arena,1000 Chopper Circle,CO,2021-04-29,19:00:00,32,999
+97,Los Angeles Lakers vs. Denver Nuggets,Los Angeles Lakers,Denver Nuggets,STAPLES Center,1111 S. Figueroa St,CA,2021-05-03,19:00:00,45,654
+98,Denver Nuggets vs. New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,Ball Arena,1000 Chopper Circle,CO,2021-04-28,19:00:00,55,999
+99,Denver Nuggets vs. New York Knicks,Denver Nuggets,New York Knicks,Ball Arena,1000 Chopper Circle,CO,2021-05-05,19:00:00,46,999
+100,Golden State Warriors vs. Denver Nuggets,Golden State Warriors,Denver Nuggets,Chase Center,300 16th Street,CA,2021-04-23,19:00:00,80,3500
+101,Charlotte Hornets vs. Denver Nuggets,Charlotte Hornets,Denver Nuggets,Spectrum Center ,333 East Trade Street,NC,2021-05-11,19:00:00,2,225
+102,Denver Nuggets vs. Brooklyn Nets,Denver Nuggets,Brooklyn Nets,Ball Arena,1000 Chopper Circle,CO,2021-05-08,20:00:00,69,999
+103,Orlando Magic vs. Indiana Pacers,Orlando Magic,Indiana Pacers,Amway Center,400 W Church St.,FL,2021-04-25,20:00:00,17.25,1796.5
+104,Orlando Magic vs. Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,Amway Center,400 W Church St.,FL,2021-05-01,20:00:00,26,1996.5
+105,Orlando Magic vs. New Orleans Pelicans,Orlando Magic,New Orleans Pelicans,Amway Center,400 W Church St.,FL,2021-04-22,19:00:00,26,1996.5
+106,Milwaukee Bucks vs. Phoenix Suns,Milwaukee Bucks,Phoenix Suns,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-04-19,19:00:00,40,600
+107,Orlando Magic vs. Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,Amway Center,400 W Church St.,FL,2021-05-09,19:00:00,17.25,1796.5
+108,Milwaukee Bucks vs. Miami Heat,Milwaukee Bucks,Miami Heat,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-05-15, ,46,600
+109,Milwaukee Bucks vs. Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-04-24,14:30:00,54,600
+110,Milwaukee Bucks vs. Orlando Magic,Milwaukee Bucks,Orlando Magic,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-05-11,20:00:00,40,600
+111,Milwaukee Bucks vs. Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-04-22,18:00:00,40,600
+112,Sacramento Kings vs. Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,500 David J Stern Walk,CA,2021-04-21,19:00:00,22,355
+113,Atlanta Hawks vs. Miami Heat,Atlanta Hawks,Miami Heat,State Farm Arena,One State Farm Drive,GA,2021-04-23,19:30:00,55,999
+114,Sacramento Kings vs. Utah Jazz,Sacramento Kings,Utah Jazz,Golden 1 Center,500 David J Stern Walk,CA,2021-04-28,19:00:00,22,355
+115,Atlanta Hawks vs. Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,State Farm Arena,One State Farm Drive,GA,2021-04-25,19:30:00,39,999
+116,Atlanta Hawks vs. Orlando Magic,Atlanta Hawks,Orlando Magic,State Farm Arena,One State Farm Drive,GA,2021-04-20,19:30:00,19,999
+117,Indiana Pacers vs. San Antonio Spurs,Indiana Pacers,San Antonio Spurs,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-04-19,20:00:00,9,234
+118,Miami Heat vs. Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-05-07,20:00:00,20,320
+119,Atlanta Hawks vs. Phoenix Suns,Atlanta Hawks,Phoenix Suns,State Farm Arena,One State Farm Drive,GA,2021-05-05,20:00:00,25,999
+120,Miami Heat vs. San Antonio Spurs,Miami Heat,San Antonio Spurs,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-04-28,20:00:00,15,285
+121,Atlanta Hawks vs. Orlando Magic,Atlanta Hawks,Orlando Magic,State Farm Arena,One State Farm Drive,GA,2021-05-13,19:30:00,19,999
+122,Memphis Grizzlies vs. Orlando Magic,Memphis Grizzlies,Orlando Magic,FedExForum,191 Beale Street,TN,2021-04-30,19:00:00,23,204
+123,Milwaukee Bucks vs. Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-05-02,14:30:00,70,660
+124,Miami Heat vs. Philadelphia 76ers,Miami Heat,Philadelphia 76ers,AmericanAirlines Arena,601 Biscayne Blvd,FL,2021-05-13,19:30:00,20,320
+125,Phoenix Suns vs. Utah Jazz,Phoenix Suns,Utah Jazz,Phoenix Suns Arena (formerly Talking Stick Resort Arena),201 East Jefferson Street,AZ,2021-04-30,19:00:00,55,303
+126,Memphis Grizzlies vs. Sacramento Kings,Memphis Grizzlies,Sacramento Kings,FedExForum,191 Beale Street,TN,2021-05-14,20:00:00,12,154
+127,Indiana Pacers vs. Atlanta Hawks,Indiana Pacers,Atlanta Hawks,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-05-06,20:00:00,15,291
+128,Atlanta Hawks vs. Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,State Farm Arena,One State Farm Drive,GA,2021-05-03,20:00:00,21,999
+129,Memphis Grizzlies vs. Sacramento Kings,Memphis Grizzlies,Sacramento Kings,FedExForum,191 Beale Street,TN,2021-05-13,19:00:00,12,154
+130,Milwaukee Bucks vs. Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,1111 Vel R. Phillips Ave,WI,2021-05-04,18:30:00,55,650
+131,Indiana Pacers vs. Sacramento Kings,Indiana Pacers,Sacramento Kings,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-05-05,20:00:00,9,234
+132,Golden State Warriors vs. Sacramento Kings,Golden State Warriors,Sacramento Kings,Chase Center,300 16th Street,CA,2021-04-25,19:00:00,80,3500
+133,Golden State Warriors vs. Utah Jazz,Golden State Warriors,Utah Jazz,Chase Center,300 16th Street,CA,2021-05-10,19:00:00,80,3500
+134,Golden State Warriors vs. Phoenix Suns,Golden State Warriors,Phoenix Suns,Chase Center,300 16th Street,CA,2021-05-11,19:00:00,80,3500
+135,Indiana Pacers vs. Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-05-13,19:00:00,29,415
+136,Golden State Warriors vs. Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,Chase Center,300 16th Street,CA,2021-05-16,19:00:00,80,3500
+137,Charlotte Hornets vs. Miami Heat,Charlotte Hornets,Miami Heat,Spectrum Center ,333 East Trade Street,NC,2021-05-02,20:00:00,2,249
+138,Charlotte Hornets vs. Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,Spectrum Center ,333 East Trade Street,NC,2021-04-27,19:00:00,2,299
+139,Memphis Grizzlies vs. New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,FedExForum,191 Beale Street,TN,2021-05-10,19:00:00,35,343
+140,Memphis Grizzlies vs. Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,FedExForum,191 Beale Street,TN,2021-04-28,20:00:00,23,252
+141,Charlotte Hornets vs. Orlando Magic,Charlotte Hornets,Orlando Magic,Spectrum Center ,333 East Trade Street,NC,2021-05-07,20:00:00,2,199
+142,Utah Jazz vs. Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,Vivint Arena,301 West South Temple,UT,2021-04-24,19:00:00,20,2500
+143,Indiana Pacers vs. Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-04-21,19:00:00,9,234
+144,Indiana Pacers vs. Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-04-27,19:00:00,15,291
+145,San Antonio Spurs v Miami Heat Fiesta Sunglasses Giveaway,San Antonio Spurs,Miami Heat,AT&T Center,1 AT&T Center,TX,2021-04-21,19:30:00,12,1000
+146,Indiana Pacers vs. Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-05-11,20:00:00,20,364
+147,Golden State Warriors vs. Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,Chase Center,300 16th Street,CA,2021-05-06,19:00:00,80,3500
+148,Golden State Warriors vs. Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,Chase Center,300 16th Street,CA,2021-05-08,19:00:00,80,3500
+149,Golden State Warriors vs. New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,Chase Center,300 16th Street,CA,2021-05-14,19:00:00,80,3500
+150,Charlotte Hornets vs. New Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,Spectrum Center ,333 East Trade Street,NC,2021-05-09,19:00:00,2,349
+151,Phoenix Suns vs. Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,Phoenix Suns Arena (formerly Talking Stick Resort Arena),201 East Jefferson Street,AZ,2021-05-13,19:00:00,55,303
+152,Brooklyn Nets vs. Phoenix Suns,Brooklyn Nets,Phoenix Suns,Barclays Center,620 Atlantic Ave,NY,2021-04-25,15:30:00,129,6500
+153,Indiana Pacers vs. Brooklyn Nets,Indiana Pacers,Brooklyn Nets,Bankers Life Fieldhouse,125 S. Pennsylvania St.,IN,2021-04-29,19:00:00,50,707
+154,Brooklyn Nets vs. Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,Barclays Center,620 Atlantic Ave,NY,2021-04-30,20:00:00,139,5500
+155,AT&T Center Parking: San Antonio Spurs v Phoenix Suns,San Antonio Spurs,AT&T Center Parking,AT&T Center,1 AT&T Center,TX,2021-05-15, ,15,15
+156,AT&T Center Parking: San Antonio Spurs v Phoenix Suns,San Antonio Spurs,AT&T Center Parking,AT&T Center,1 AT&T Center,TX,2021-05-16, ,15,15
+157,San Antonio Spurs v Phoenix Suns Tim Duncan Hall of Fame Night,San Antonio Spurs,Phoenix Suns,AT&T Center,1 AT&T Center,TX,2021-05-15, ,40,1300
+158,San Antonio Spurs v Milwaukee Bucks Military Appreciation Night,San Antonio Spurs,Milwaukee Bucks,AT&T Center,1 AT&T Center,TX,2021-05-10,19:30:00,13,1000
+159,Brooklyn Nets vs. San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,Barclays Center,620 Atlantic Ave,NY,2021-05-12,20:00:00,81,2860
+160,San Antonio Spurs v Philadelphia 76ers Fiesta Sock Giveaway,San Antonio Spurs,Philadelphia 76ers,AT&T Center,1 AT&T Center,TX,2021-05-02,19:00:00,20,1300
+161,San Antonio Spurs v Phoenix Suns Fiesta Court Beach Towels Giveaway,San Antonio Spurs,Phoenix Suns,AT&T Center,1 AT&T Center,TX,2021-05-16, ,12,1000
